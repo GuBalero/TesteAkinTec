@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,700&display=swap');
+
+.container-nav{
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 3% 0 1%;
+}
+
+.title{
+    font-family: 'Ubuntu', sans-serif;;
+    font-size: 3.2vw;
+    color: #BABBBF;
+    cursor: default;
+}
+
+.buttons{
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.buttons button{
+    margin: 10px;
+    font-size: 1vw;
+    cursor: pointer;
+    background: none;
+    border: none;
+    color: #F2F2F2;
+    transition: all .1s ease;
+}

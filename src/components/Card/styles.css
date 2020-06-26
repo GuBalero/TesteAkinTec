@@ -1,0 +1,30 @@
+.container-card{
+    width: 15vw;
+    height: calc(25vh / width);
+    max-height: calc(25vh / width);
+    background-color: #4D5059;
+    border-radius: .5vh;
+    padding: 8px;
+    flex-direction: column;
+    margin: 0 1vw 4vh 1vw;
+}
+
+.container-card h1{
+    font-size: 1.35vw;
+    color: #F2F2F2;
+    margin-bottom: 10px;
+}
+
+.container-card h4{
+    font-size: 1vw;
+    color: #BABBBF;
+    margin: 5px 0 5px 0;
+
+}
+
+.btn-arrow{
+    cursor: pointer;
+    color: #f2f2f2;
+    margin-left: 85%;
+    background-color: #F23005;
+}

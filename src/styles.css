@@ -1,0 +1,22 @@
+/* ----- CORES DO SITE ----- */
+/* Cinza Escuro: #212226 */
+/* Cinza Médio: #4D5059 */
+/* Cinza Claro: #BABBBF */
+/* Laranja: #F23005 */
+/* Branco: #F2F2F2 */
+/* ------------------------- */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', cursive;
+}
+
+body{
+    background-color: #212226;
+    overflow: hidden;
+}
